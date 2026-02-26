@@ -63,12 +63,16 @@
   <a href="https://next-g-digital-solutions.vercel.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Website-Next%20G%20Digital-3C6C37?style=for-the-badge&logo=vercel&logoColor=F2E1C2&labelColor=092926" />
   </a>
-  <a href="https://example.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Add%20Your%20Link%201-F29C27?style=for-the-badge&labelColor=092926&logoColor=F2E1C2" />
+  <a href="https://buymeacoffee.com/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F29C27?style=for-the-badge&logo=buymeacoffee&logoColor=F2E1C2&labelColor=092926" />
   </a>
-  <a href="https://example.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Add%20Your%20Link%202-3C6C37?style=for-the-badge&labelColor=7F5000&logoColor=F2E1C2" />
+  <a href="https://themeforest.net/user/crzycute4" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/ThemeForest-3C6C37?style=for-the-badge&logo=envato&logoColor=F2E1C2&labelColor=092926" />
   </a>
+  <a href="https://www.linkedin.com/in/nikki-sixx-acosta-690246340/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-092926?style=for-the-badge&logo=linkedin&logoColor=F2E1C2&labelColor=3C6C37" />
+  </a>
+  <img src="https://img.shields.io/badge/Portfolio-7F5000?style=for-the-badge&labelColor=3C6C37&logoColor=F2E1C2" />
 </p>
 
 ---
