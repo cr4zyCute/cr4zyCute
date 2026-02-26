@@ -41,16 +41,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cr4zyCute&show_icons=true&border_radius=12&title_color=7F5000&text_color=F2E1C2&icon_color=F29C27&bg_color=092926" alt="stats" />
   <br/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cr4zyCute&layout=compact&border_radius=12&title_color=7F5000&text_color=F2E1C2&bg_color=092926" alt="top langs" />
-</p>
+</p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cr4zyCute&theme=github_dark" alt="most commit language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cr4zyCute&theme=github_dark" alt="repos per language" />
-</p> -->
+</p> 
 
 ---
 
