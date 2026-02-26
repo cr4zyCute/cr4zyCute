@@ -34,7 +34,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cr4zyCute&theme=dark&hide_border=false&border_radius=12&background=092926&dates=F2E1C2&ring=F29C27&fire=F29C27&currStreakNum=F2E1C2&sideNums=F2E1C2&currStreakLabel=F29C27&sideLabels=F2E1C2&hide_total_contributions=true&hide_longest_streak=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=cr4zyCute&theme=dark&hide_border=false&border_radius=12&background=092926&dates=F2E1C2&ring=F29C27&fire=F29C27&currStreakNum=F2E1C2&sideNums=F2E1C2&currStreakLabel=F29C27&sideLabels=F2E1C2" alt="streak" />
 </p>
 
 ---
@@ -54,7 +54,9 @@
 
 ---
 
-## 🎨 Palette
+---
+
+## � Palette
 
 <p align="center">
   <img src="https://img.shields.io/badge/%20-3C6C37?style=for-the-badge&label=Forest%20Green&labelColor=333333&color=3C6C37" />
