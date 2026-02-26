@@ -47,26 +47,15 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cr4zyCute&layout=compact&border_radius=12&title_color=7F5000&text_color=F2E1C2&bg_color=092926" alt="top langs" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cr4zyCute&theme=github_dark" alt="most commit language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cr4zyCute&theme=github_dark" alt="repos per language" />
-</p>
+</p> -->
 
 ---
 
 ---
 
-## � Palette
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%20-3C6C37?style=for-the-badge&label=Forest%20Green&labelColor=333333&color=3C6C37" />
-  <img src="https://img.shields.io/badge/%20-F2E1C2?style=for-the-badge&label=Cream&labelColor=333333&color=F2E1C2" />
-  <img src="https://img.shields.io/badge/%20-7F5000?style=for-the-badge&label=Brown&labelColor=333333&color=7F5000" />
-  <img src="https://img.shields.io/badge/%20-F29C27?style=for-the-badge&label=Orange&labelColor=333333&color=F29C27" />
-  <img src="https://img.shields.io/badge/%20-092926?style=for-the-badge&label=Deep%20Teal&labelColor=333333&color=092926" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
