@@ -36,9 +36,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cr4zyCute&theme=dark&hide_border=false&border_radius=12&background=092926&dates=F2E1C2&ring=F29C27&fire=F29C27&currStreakNum=F2E1C2&sideNums=F2E1C2&currStreakLabel=F29C27&sideLabels=F2E1C2" alt="streak" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cr4zyCute&theme=dark&hide_border=false&border_radius=12&background=092926&dates=F2E1C2&ring=F29C27&fire=F29C27&currStreakNum=F2E1C2&sideNums=F2E1C2&currStreakLabel=F29C27&sideLabels=F2E1C2&starting_year=2023&date_format=M%20j,%20Y" alt="streak" />
-</p>
 
 ---
 
